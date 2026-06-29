@@ -6,7 +6,7 @@
 2. 체계적인 토론 진행!
 3. 영상으로 남는 나의 토론!
 
-- 배포 링크: [https://debate-ducks.click](https://debate-ducks.click)
+- 배포 링크: ~[https://debate-ducks.click](https://debate-ducks.click)~
 - 클라이언트 저장소: [https://github.com/SuSang-YuHee/Debate-Ducks-Client](https://github.com/SuSang-YuHee/Debate-Ducks-Client)
 - 이전 버전 저장소: [https://github.com/codestates/debate-ducks](https://github.com/codestates/debate-ducks)
 
